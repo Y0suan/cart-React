@@ -1,0 +1,23 @@
+.icon{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 30%;
+    height: 90px;
+}
+.icon a{
+    color: rgb(253, 253, 253);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.icon p{
+  margin: 10px; 
+}
+.icon a:hover{
+  color:rgb(233, 245, 66);
+
+}
