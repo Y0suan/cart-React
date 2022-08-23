@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cart-React/static/css/main.ec2ede68.css",
+    "main.js": "/cart-React/static/js/main.65c77dab.js",
+    "static/js/787.e6e65f18.chunk.js": "/cart-React/static/js/787.e6e65f18.chunk.js",
+    "static/media/oreoo.png": "/cart-React/static/media/oreoo.a64afa52ab66f79cfceb.png",
+    "index.html": "/cart-React/index.html",
+    "main.ec2ede68.css.map": "/cart-React/static/css/main.ec2ede68.css.map",
+    "main.65c77dab.js.map": "/cart-React/static/js/main.65c77dab.js.map",
+    "787.e6e65f18.chunk.js.map": "/cart-React/static/js/787.e6e65f18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec2ede68.css",
+    "static/js/main.65c77dab.js"
+  ]
+}
